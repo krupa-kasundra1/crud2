@@ -1,0 +1,90 @@
+{
+  "users": [
+    {
+      "id": "1",
+      "name": "Arav",
+      "username": "aaa",
+      "email": "arav@gmail.com",
+      "phone": "978453672",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "2",
+      "name": "Bansi",
+      "username": "bbb",
+      "email": "bansi@gmail.com",
+      "phone": "5869340982",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "3",
+      "name": "Charmi",
+      "username": "ccc",
+      "email": "charmi@gmail.com",
+      "phone": "34586496",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "4",
+      "name": "Diya",
+      "username": "ddd",
+      "email": "diya@gmail.com",
+      "phone": "8765497346",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "5",
+      "name": "Eva",
+      "username": "eee",
+      "email": "eva@gmail.com",
+      "phone": "5693650935",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "6",
+      "name": "Foram",
+      "username": "fff",
+      "email": "foram@gmail.com",
+      "phone": "8794638240",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "7",
+      "name": "Griva",
+      "username": "ggg",
+      "email": "griva@gmail.com",
+      "phone": "8509347621",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "8",
+      "name": "Hinal",
+      "username": "hhh",
+      "email": "hinal@gmail.com",
+      "phone": "9573218954",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "9",
+      "name": "Isha",
+      "username": "iii",
+      "email": "isha@gmail.com",
+      "phone": "34586496",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "10",
+      "name": "Jiva",
+      "username": "jjj",
+      "email": "jjj@gmail.com",
+      "phone": "9757893465",
+      "website": "hidegard.org"
+    },
+    {
+      "id": "11",
+      "name": "Siya",
+      "email": "siya@gmail.com",
+      "phone": "8756396246"
+    }
+  ]
+}
